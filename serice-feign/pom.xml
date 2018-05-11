@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>serice-feign</name>
-    <description>网关</description>
+    <description>服务消费者</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
